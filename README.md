@@ -8,7 +8,6 @@
 A Robust BDD Test Automation Framework combining Page Object Model, Data-Driven approaches for OpenCart testing.
 
 📌 Features
-📌 Features
 
 ✅ BDD with Cucumber (Gherkin syntax)
 
