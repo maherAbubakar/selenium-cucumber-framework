@@ -11,11 +11,17 @@ A Robust BDD Test Automation Framework combining Page Object Model, Data-Driven 
 📌 Features
 
 ✅ BDD with Cucumber (Gherkin syntax)
+
 ✅ Cross-browser testing (Chrome, Firefox, Edge)
+
 ✅ Parallel execution support
+
 ✅ Rich reporting (ExtentReports)
+
 ✅ Parallel test execution
+
 ✅ Comprehensive reporting (ExtentReports + Log4j2)
+
 ✅ CI/CD ready (Jenkins integration)
 
 ## 🛠 Technologies
